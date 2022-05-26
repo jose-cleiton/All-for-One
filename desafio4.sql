@@ -1,2 +1,2 @@
 SELECT count(product_name
-) from northwind.products
+) from northwind.products;
